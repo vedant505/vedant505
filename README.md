@@ -1,4 +1,4 @@
--  Hie , I’m @vedant505 👋👋
+-  HIE , I’M @vedant505 👋👋
 
 - 🌱 It I'M CURRENTLY LEARNING FRONTEND DEVELOPMENT.
 - 😄 PRONOUNS: HE/HIIM
